@@ -1,6 +1,5 @@
 # skins
 my osu skins
 <br>
-[Anime Girls v1](https://github.com/cfgexe/skins/releases/download/v1/whitecat.anime.girls.hddt.osk)
-<br>
-<b>too many anime girls</b>
+# [《HD》EloHere Blue](https://www.mediafire.com/file/ene38m9onsxy1yr/%255BHD%255D_EloHere_Blue.osk/file)
+![](https://i.imgur.com/OUaSipy.jpg)
